@@ -183,12 +183,12 @@ Fixing this was actually very easy thanks to the dedicated AMP page templates �
 
 # [fit] Was this worth the time invested? 🤔
 
-Maybe 😬 **Our** site doesn't host the right content.
+Maybe 😬. **Our** site doesn't host the right content.
 
 ---
 
 # [fit] Should **you** use AMP? 🤔
-YES!!! If **your** site hosts content for the target market.
+YES!!! If **your** site does host the right content.
 
 ---
 
