@@ -15,35 +15,23 @@ slidenumbers: true
 
 ---
 
-# Slides
-
-- What's wrong with current mobile browsing? √
-- What are they?√
-- What are they... ACTUALLY?√
-    - Side by Side loading difference √
-    - Limitations
-- What we did to setup AMP √
-    - Install plugin √
-    - Tweak plugin √
-    - Errors √
-    - Previewing tool √
-- Should I use it?
-    - What we advised a client recently
-    - Who is this for
-        - Publisher images
-        - New thoughts
-
----
-
 # [fit] What's wrong with
 # [fit] current mobile browsing? 🤷‍♂️
 
 ---
 
+Mobile stats 📱[^1]
+
 ![inline](assets/amp-stats.png)
 
 ---
 
+# What's the solution?
+# Is it AMP? ⚡️
+
+---
+
+# [fit] But First!
 # What is AMP? 🏎💨
 
 ---
@@ -59,7 +47,7 @@ slidenumbers: true
 
 ---
 
-![fit loop](assets/loading-amp-and-standard.mov)
+![fit](assets/loading-amp-and-standard.mov)
 
 ---
 
@@ -71,6 +59,14 @@ slidenumbers: true
 
 ---
 
+![fit](assets/amp-block.png)
+
+---
+
+![fit](assets/amp-address.png)
+
+---
+
 ## Initial thoughts 🤔
 
 Pros |
@@ -78,9 +74,9 @@ Pros |
 **SUPER** Fast loading |
 Smooth scrolling |
 Reduced page 'jumping' while assets load |
+You **may** gain a bit of Google goodwill |
 **Apparently** it's not hard to get started |
-Gain a bit of Google goodwill |
-Google are paying for your traffic |
+Google is paying for your AMP traffic |
 
 ---
 
@@ -90,17 +86,18 @@ Cons |
 :-----------: |
 Limited technology |
 Different UX to Desktop |
-It is obviously just for mobile devices |
-Google are paying for your traffic |
+It is just for mobile devices (obviously) |
+Google is paying for your AMP traffic |
 
 ---
 
+# [fit] Time to try it!
 # [fit] What we did to setup AMP ⚙️
 
 ---
 
 # [fit] Step 1
-# [fit] Get AMP plugin 🔌
+# [fit] Get the AMP plugin 🔌
 
 ---
 
@@ -118,9 +115,9 @@ Google are paying for your traffic |
 # [fit] Modifying output
 
 
-We use Timber (Twig) and a semi custom page builder to build pages (We do not use the default WordPress editor).
+We use Timber (Twig) and a semi-custom page builder to build pages (We do not use the default WordPress editor).
 
-Fixing this was actually very easy thanks to dedicated AMP page templates 📄
+Fixing this was actually very easy thanks to the dedicated AMP page templates 📄
 
 ---
 
@@ -186,13 +183,12 @@ Fixing this was actually very easy thanks to dedicated AMP page templates 📄
 
 # [fit] Was this worth the time invested? 🤔
 
-Maybe... **Our** site is not the right target market.
+Maybe 😬 **Our** site doesn't host the right content.
 
 ---
 
-# [fit] Should I actually use AMP? 🤔
-
-YES!!! If **your** site is the right target market.
+# [fit] Should **you** use AMP? 🤔
+YES!!! If **your** site hosts content for the target market.
 
 ---
 
@@ -200,28 +196,33 @@ YES!!! If **your** site is the right target market.
 
 ---
 
-# [fit] Future of AMP ⏱
-
-Cons |
-:-----------: |
-Newer types of interactions |
-Including e-commerce |
-Different  |
+# [fit] Should **you actually** use AMP for
+# [fit] the sake of using a new technology? 🤔
 
 ---
 
-# [fit] Should I actually use AMP? 🤔
-# [fit] **What we recently told a client**
+# [fit] Future of AMP ⏱
+
+Features |
+:-----------: |
+Newer types of interactions |
+Including e-commerce templates and crawling |
+Better cache control |
+More AMP consumers |
+
 
 ---
 
 # [fit] THANKS! ☺️
 
+Follow me:
+@david_darke
+
+Follow my studio:
+@atomicsmash
 
 ---
 
-# [fit] Questions? 🙋 🙋‍♂️
-
-
+# [fit] Any questions? 🙋 🙋‍♂️
 
 [^1]: Taken from https://www.youtube.com/watch?v=WrpkFROqR0Q
