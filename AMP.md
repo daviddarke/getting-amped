@@ -26,13 +26,8 @@ Mobile stats 📱[^1]
 
 ---
 
-# What's the solution?
-# Is it AMP? ⚡️
-
----
-
-# [fit] But First!
-# What is AMP? 🏎💨
+# [fit] Is AMP the solution? ⚡️
+# [fit] Wait... What is AMP? 🏎💨
 
 ---
 
@@ -48,10 +43,6 @@ Mobile stats 📱[^1]
 ---
 
 ![fit](assets/loading-amp-and-standard.mov)
-
----
-
-# What is AMP... **Actually?**
 
 ---
 
@@ -209,6 +200,7 @@ Newer types of interactions |
 Including e-commerce templates and crawling |
 Better cache control |
 More AMP consumers |
+More supported Ad Networks |
 
 
 ---
@@ -220,6 +212,9 @@ Follow me:
 
 Follow my studio:
 @atomicsmash
+
+Get presentation here:
+https://github.com/daviddarke/getting-amped
 
 ---
 
